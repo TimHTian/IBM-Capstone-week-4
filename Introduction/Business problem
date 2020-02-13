@@ -1,0 +1,10 @@
+Coal, oil and gas fill over 70% of the world energy needs, and will keep supporting our economic development for a long time. 
+Fossil fuel exploration has been developed largely for the past few decades, but the critical part is still rely on how detailed the geological background of the basin could be constrained which could worth tens of millions of dollars.
+Thus to better assist fossil fuel exploration, geologists has been strugling to better constrain basin evolutions from geological perspectives.
+Zircon is a mineral that persistant to chemical and physical weathering and holds valuable information to constrain the ages of basin deposition so has been largely used to explore the basin history.
+However, due to Low analytical precisions, more than 300 zircon grains are normally analyzed to give a reasonable age, and the community is debating the best statistical approach to reach to the best zircon ages.
+The most common tools for zircon age calculations is an EXCEL-based macro (Ludwig, 2008) which has not been updated for several years due to the retirement of the primary investigator. 
+Here I propose to test the recently developed python-based toolset called detritalPy, and I will use the zircons in the Permian Basin to test if the validity of the detritalPy tool. 
+The Permian Basin sits in west Texas and southeast New Mexico and is the most prolific oil field in the world. However, the basin history was poorly understond, especially the age constrains which partly due to lacking of datable materials.
+Recent discovery of volcanic ash and zircons in the Permian Basin (Tian et al. 2019) provides a great opportunity to date the sediment and revise the basin history.
+Here I will use the zircon age obtained from high-precision dating techniques and test if we can use the detritalPy to give a high resolution age calculations.
